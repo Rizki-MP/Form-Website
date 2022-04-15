@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(255, 230, 185);
+}
+
+.btn {
+  width: 100%;
+}
+
+.text-abu-abu {
+  color: rgb(73, 73, 73);
+}
+
+.container {
+  box-shadow: 0 0 20px rgba(149, 173, 129);
+  color: #fff;
+  background-color: rgb(38, 204, 121);
+  margin-top: 75px;
+  width: 400px;
+}
+
+p a {
+  text-decoration: none;
+  color: salmon;
+}
